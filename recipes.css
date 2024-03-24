@@ -14,6 +14,12 @@ ul {
     font-size: 5em;
 }
 
+li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px 20%;
+}
+
 #mac {
     background-color: yellow;
 }
